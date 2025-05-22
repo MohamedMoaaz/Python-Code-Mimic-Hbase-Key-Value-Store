@@ -1,0 +1,9 @@
+{
+    "timestamp": 1747517492.962752,
+    "operation": "FLUSH",
+    "namespace": "test_ns",
+    "table": "test_table",
+    "key": "FLUSH",
+    "value": null,
+    "ttl": 0
+}

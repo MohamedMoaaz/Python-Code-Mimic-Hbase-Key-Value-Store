@@ -1,0 +1,9 @@
+{
+    "timestamp": 1747517492.9597242,
+    "operation": "DELETE",
+    "namespace": "test_ns",
+    "table": "test_table",
+    "key": "key1",
+    "value": null,
+    "ttl": 0
+}

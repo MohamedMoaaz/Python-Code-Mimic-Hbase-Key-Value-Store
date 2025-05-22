@@ -1,0 +1,19 @@
+{
+    "key1": [
+        {
+            "value": "value1",
+            "timestamp": 1747517486.9554005,
+            "ttl": 0
+        },
+        {
+            "value": "value2",
+            "timestamp": 1747517486.9564083,
+            "ttl": 5
+        },
+        {
+            "value": "_DEL",
+            "timestamp": 1747517492.9607518,
+            "ttl": 0
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "timestamp": 1747517486.9564083,
+    "operation": "SET",
+    "namespace": "test_ns",
+    "table": "test_table",
+    "key": "key1",
+    "value": "value2",
+    "ttl": 5
+}
